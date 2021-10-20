@@ -17,3 +17,6 @@ EQUIPO OPERATIVO:
 user:operaciones
 password:iTwhh2UN
 url: https://www.krugle.ec/
+
+ESTO ES EL CAMBIO EN EL ARCHIVO
+Modificado
